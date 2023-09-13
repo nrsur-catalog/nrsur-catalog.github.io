@@ -20,6 +20,7 @@ html:
   use_issues_button: false
   use_repository_button: false
   favicon: https://raw.githubusercontent.com/nrsur-catalog/logo/main/nrsurcat_favicon.png
+  home_page_in_navbar: false
 
 
 
