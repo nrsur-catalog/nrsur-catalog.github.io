@@ -2,4 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
+root: home
+chapters:
+- url: https://nrsur-catalog.github.io/NRSurCat-1
+  title: NRSurCat-1
