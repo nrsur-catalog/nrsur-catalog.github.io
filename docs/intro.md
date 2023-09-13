@@ -1,11 +1,16 @@
-# Welcome to your Jupyter Book
+# NRSurCat Home
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This is the homepage for all the NRSurrogate Gravitational wave catalogs. 
+Below, we have links to the individual catalogs:
 
-Check out the content pages bundled with this sample book to see more.
+- [NRSurCat-1], Islam et al. (2023)
+- NRSurCat-2 (🚧 In prep 🚧)
 
-```{tableofcontents}
-```
+
+
+
+
+[NRSurCat-1]: https://nrsur-catalog.github.io/NRSurCat-1
+[Islam et al. (2023)]: https://nrsur-catalog.github.io/NRSurCat-1
+
+
