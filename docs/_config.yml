@@ -2,7 +2,7 @@
 # Learn more at https://jupyterbook.org/customize/config.html
 
 title: NRSur Catalogs
-author: NRSurCat Team
+author: NRSur Team
 logo: https://raw.githubusercontent.com/nrsur-catalog/logo/main/nrsurcat_favicon.png
 
 execute:
